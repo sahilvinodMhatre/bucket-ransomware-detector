@@ -1,1 +1,1 @@
-"# bucket-ransomware-detector" 
+# bucket-ransomware-detector 
